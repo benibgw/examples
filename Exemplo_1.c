@@ -10,25 +10,19 @@ main(){
     int soma = a + b;
     int sub = a - b;
     int multi = a * b;
-    int div = a / b; //cria 4 novas variaveis, "soma", "soma", "multi" e "div", e a cada uma È definido o valor respectivo das 4 operaÁıes basicas
+    int div = a / b; //cria 4 novas variaveis, "soma", "soma", "multi" e "div", e a cada uma √© definido o valor respectivo das 4 opera√ß√µes basicas
 
-    printf("\n Os resultados das quatro operacoes basicas desses numeros foram : Soma %d, Sub %d, Multi %d, Div %d", soma, sub, multi, div); // imprime no console os resultados das operaÁıes
+    printf("\n Os resultados das quatro operacoes basicas desses numeros foram : Soma %d, Sub %d, Multi %d, Div %d", soma, sub, multi, div); // imprime no console os resultados das opera√ß√µes
 
-    if(a = b) { // "if" È o "se", ent„o se o que estiver dentro dos parenteses for verdade o programa vai fazer o que estiver dentro das chaves
+    if(a = b) { // "if" √© o "se", ent√£o se o que estiver dentro dos parenteses for verdade o programa vai fazer o que estiver dentro das chaves
 
-        printf("\n OS NUMEROS SAO IGUAIS !!! :)"); // acho que ja deu pra entender o que È o printf ksksks
+        printf("\n OS NUMEROS SAO IGUAIS !!! :)"); // acho que ja deu pra entender o que √© o printf ksksks
 
-    } else { // "else" È o "sen„o", ent„o se o que estiver dentro dos parenteses do "if" n„o for verdade, o programa vai fazer o que estiver dentro das chaves do "else"
+    } else { // "else" √© o "sen√£o", ent√£o se o que estiver dentro dos parenteses do "if" n√£o for verdade, o programa vai fazer o que estiver dentro das chaves do "else"
 
-        printf("\n OS NUMEROS NAO SAO IGUAIS !!! :("); // de novo acho que ja t· bom de printf kskksk
+        printf("\n OS NUMEROS NAO SAO IGUAIS !!! :("); // de novo acho que ja t√° bom de printf kskksk
 
     }
 
-return 0; // retorna o valor 0 para a funÁ„o "main", mas n„o precisa usar isso
+return 0; // retorna o valor 0 para a fun√ß√£o "main", mas n√£o precisa usar isso
 }
-
- /* usa esse exemplo pra relembrar o basico, n„o se preucupa
-    tanto com o "if" e "else" por enquanto, sugiro anotar e
-    tentar fazer um programa desse tmb.
-
-    Agora vÍ se aprende um pouco, quero que v· bem na prova :) */
